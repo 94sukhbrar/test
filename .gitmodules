@@ -1,0 +1,21 @@
+[submodule "protected/modules/backup"]
+	path = protected/modules/backup
+	url = http://192.168.10.23/yii2/modules/backup.git
+[submodule "protected/modules/installer"]
+	path = protected/modules/installer
+	url = http://192.168.10.23/yii2/modules/installer.git
+[submodule "protected/modules/sitemap"]
+	path = protected/modules/sitemap
+	url = http://192.168.10.23/yii2/modules/sitemap.git
+[submodule "protected/modules/seo"]
+	path = protected/modules/seo
+	url = http://192.168.10.23/yii2/modules/seo.git
+[submodule "protected/modules/blog"]
+	path = protected/modules/blog
+	url = http://192.168.10.23/yii2/modules/blog.git
+[submodule "protected/modules/shadow"]
+	path = protected/modules/shadow
+	url = http://192.168.10.23/yii2/modules/shadow.git
+[submodule "protected/modules/comment"]
+	path = protected/modules/comment
+	url = http://192.168.10.23/yii2/modules/comment.git
